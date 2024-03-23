@@ -1,0 +1,54 @@
+div#carro1{
+    width:60px;
+    height: 60px;
+    background-color: black;
+    color: aliceblue;
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 10px;
+}
+div#carro2{
+    width:60px;
+    height: 60px;
+    background-color: red;
+    color: aliceblue;
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 10px;
+
+}
+div#carro3{
+    width:60px;
+    height: 60px;
+    background-color: blue;
+    color: aliceblue;
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 10px;
+
+}
+div#carro4{
+    width:60px;
+    height: 60px;
+    background-color: green;
+    color: aliceblue;
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 10px;
+
+}
+div#carro5{
+    width:60px;
+    height: 60px;
+    background-color: orange;
+    color: aliceblue;
+    position: relative;
+    top: 0;
+    left: 0;
+    padding: 10px;
+
+}
